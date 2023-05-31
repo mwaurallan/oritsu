@@ -489,10 +489,11 @@
 				<p class="centered"><h5>
 					{{--					{!! $receipt_details->footer_text !!}--}}
 
-					Mpesa Till:5329411 -FROZEN DESERT LIMITED
+{{--					Mpesa Paybill:247247 -A/C ---}}
+					Paybill Number 247247 Acc No.0712389915
 
-					<p><h5>Thank you For dinning With Us!!!!</h5></p>
-					<p><h5>When you Think Of Buggers Think Scoops</h5></p>
+					<p><h5>Thanks for Shopping with us.!!!!</h5></p>
+{{--					<p><h5>When you Think Of Buggers Think Scoops</h5></p>--}}
 					<p><h5> Print Time :{{ now()->format('H:i:s') }}</h5></P>
 				</h5>
 				</p>
