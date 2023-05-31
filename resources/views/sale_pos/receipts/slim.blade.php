@@ -26,7 +26,7 @@
 				@if(!empty($receipt_details->display_name))
 					<span class="headings">
 						{{$receipt_details->display_name}}
-						<p><h5>Quality Classic And Elegance</h5></p>
+						<p class="centered "><h5>Quality Classic And Elegance</h5></p>
 					</span>
 					<br/>
 				@endif
@@ -491,7 +491,7 @@
 					{{--					{!! $receipt_details->footer_text !!}--}}
 
 {{--					Mpesa Paybill:247247 -A/C ---}}
-					Paybill Number 247247 Acc No.0712389915
+					     Paybill Number 247247 A/No.0712389915
 
 					<p><h5>Thanks for Shopping with us.!!!!</h5></p>
 {{--					<p><h5>When you Think Of Buggers Think Scoops</h5></p>--}}
