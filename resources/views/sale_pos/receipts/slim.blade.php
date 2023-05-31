@@ -33,7 +33,7 @@
 				@if(!empty($receipt_details->display_name))
 					<span class="headings">
 {{--						{{$receipt_details->display_name}}--}}
-						<p>Quality Classic And Elegance</p>
+						Quality Classic And Elegance
 					</span>
 					<br/>
 				@endif
