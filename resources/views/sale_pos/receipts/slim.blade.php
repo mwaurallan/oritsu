@@ -26,6 +26,7 @@
 				@if(!empty($receipt_details->display_name))
 					<span class="headings">
 						{{$receipt_details->display_name}}
+						<p><h5>Quality Classic And Elegance</h5></p>
 					</span>
 					<br/>
 				@endif
