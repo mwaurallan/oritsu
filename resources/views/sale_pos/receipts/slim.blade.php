@@ -31,7 +31,7 @@
 					<br/>
 				@endif
 				@if(!empty($receipt_details->display_name))
-					<span class="headings">
+					<span>
 {{--						{{$receipt_details->display_name}}--}}
 						Quality Classic And Elegance
 					</span>
