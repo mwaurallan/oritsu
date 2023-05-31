@@ -26,7 +26,14 @@
 				@if(!empty($receipt_details->display_name))
 					<span class="headings">
 						{{$receipt_details->display_name}}
-						<p class="centered "><h5>Quality Classic And Elegance</h5></p>
+{{--						<p class="centered "><h5>Quality Classic And Elegance</h5></p>--}}
+{{--					</span>--}}
+					<br/>
+				@endif
+				@if(!empty($receipt_details->display_name))
+					<span class="headings">
+{{--						{{$receipt_details->display_name}}--}}
+						<p>Quality Classic And Elegance</p>
 					</span>
 					<br/>
 				@endif
