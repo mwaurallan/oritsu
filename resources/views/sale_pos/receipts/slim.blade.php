@@ -47,7 +47,8 @@
 						@if(!empty($receipt_details->display_name))
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Platinum Plaza,Ground Floor Shop No G14
+						Tel:+254 725 125396/+254 724 475495 <br/>
+								Email:oristuemallkenyaltd@gmail.com.
 					</span>
 							<br/>
 				@endif
