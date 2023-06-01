@@ -44,14 +44,6 @@
 					</span>
 							<br/>
 				@endif
-						@endif
-						@if(!empty($receipt_details->display_name))
-							<span>
-{{--						{{$receipt_details->display_name}}--}}
-						Tel:+254725 125396/+254724475495
-					</span>
-							<br/>
-				@endif
 
 {{--				@if(!empty($receipt_details->address))--}}
 {{--					{!! $receipt_details->address !!}--}}
