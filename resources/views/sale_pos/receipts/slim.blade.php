@@ -47,7 +47,7 @@
 						@if(!empty($receipt_details->display_name))
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Tel:+254 725 125396/+254 724 475495 <br/>
+						Tel:+254 712389915/+254 724 475495 <br/>
 								Email:oristuemallkenyaltd@gmail.com.
 					</span>
 							<br/>
