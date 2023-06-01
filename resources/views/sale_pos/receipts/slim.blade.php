@@ -37,6 +37,13 @@
 					</span>
 					<br/>
 				@endif
+						@if(!empty($receipt_details->display_name))
+							<span>
+{{--						{{$receipt_details->display_name}}--}}
+						Platinum Plaza,Ground Floor Shop No G14
+					</span>
+							<br/>
+				@endif
 
 {{--				@if(!empty($receipt_details->address))--}}
 {{--					{!! $receipt_details->address !!}--}}
