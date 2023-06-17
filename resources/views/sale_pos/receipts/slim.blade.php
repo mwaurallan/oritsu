@@ -48,7 +48,7 @@
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
 						Tel:+254 712389915/+254 724 475495 <br/>
-								Email:oristuemallkenyaltd@gmail.com.
+								Email:oristuemallkenyaltd@gmail.com
 					</span>
 							<br/>
 				@endif
